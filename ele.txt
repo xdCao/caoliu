@@ -1,0 +1,60 @@
+
+			/* <![CDATA[ */
+			function getEmbed() {
+				var embedCode = '<iframe width="856" height="480" src="http://www.fcww98.com/embed/16697" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>';
+				embedCode += '</iframe>';
+				return embedCode;
+			}
+
+			var flashvars = {
+									embed_mode: '1', 									video_id: '16697', 									license_code: '$388839612828498', 									lrc: '41256868', 									video_url: 'function/0/http://www.fcww98.com/get_file/1/3c344a05d00561d6c267c7a85c766fba2bd816663e/16000/16697/16697.mp4/', 									postfix: '.mp4', 									video_url_text: 'LQ', 									video_alt_url: 'http://www.fcww98.com', 									video_alt_url_text: 'HD', 									video_alt_url_redirect: '1', 									preview_url: 'http://www.fcww98.com/contents/videos_screenshots/16000/16697/preview.mp4.jpg', 									skin: 'youtube_mod.css', 									bt: '3', 									preload: 'metadata', 									hide_controlbar: '1', 									hide_style: 'fade', 									mlogo: '点击观看更多', 									mlogo_link: 'http://www.1fcw.info', 									embed: 'true'							};
+
+			flashvars['float_src'] = '/player/float.php?video_id=16697&cs_id=0';
+			flashvars['disable_float_resize'] = 'true';
+			flashvars['disable_preview_resize'] ='true';
+
+
+			kt_player('kt_player', 'http://www.fcww98.com/player/kt_player.swf?v=3.9.0', '100%', '100%', flashvars);
+			/* ]]> */
+
+
+
+			/* <![CDATA[ */
+			function getEmbed() {
+				var embedCode = '<iframe width="856" height="480" src="http://www.fcww98.com/embed/16697" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>';
+				embedCode += '</iframe>';
+				return embedCode;
+			}
+
+			var flashvars = {
+									embed_mode: '1', 									video_id: '16697', 									license_code: '$388839612828498', 									lrc: '41256868', 									video_url: 'function/0/http://www.fcww98.com/get_file/1/3c344a05d00561d6c267c7a85c766fba2bd816663e/16000/16697/16697.mp4/', 									postfix: '.mp4', 									video_url_text: 'LQ', 									video_alt_url: 'http://www.fcww98.com', 									video_alt_url_text: 'HD', 									video_alt_url_redirect: '1', 									preview_url: 'http://www.fcww98.com/contents/videos_screenshots/16000/16697/preview.mp4.jpg', 									skin: 'youtube_mod.css', 									bt: '3', 									preload: 'metadata', 									hide_controlbar: '1', 									hide_style: 'fade', 									mlogo: '点击观看更多', 									mlogo_link: 'http://www.1fcw.info', 									embed: 'true'							};
+
+			flashvars['float_src'] = '/player/float.php?video_id=16697&cs_id=0';
+			flashvars['disable_float_resize'] = 'true';
+			flashvars['disable_preview_resize'] ='true';
+
+
+			kt_player('kt_player', 'http://www.fcww98.com/player/kt_player.swf?v=3.9.0', '100%', '100%', flashvars);
+			/* ]]> */
+
+
+
+
+
+
+
+
+
+			/* <![CDATA[ */
+			function getEmbed() {
+				var embedCode = '<iframe width="640" height="360" src="https://yaoshe24.com/embed/17775" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>';
+				embedCode += '</iframe>';
+				return embedCode;
+			}
+
+			var flashvars = {
+									embed_mode: '1', 									video_id: '17775', 									license_code: '$473222415612437', 									rnd: '1540327700', 									video_url: 'https://yaoshe24.com/get_file/1/5d0261dc8a5b2c06dff73a727ab5e5fb/17000/17775/17775.mp4/?br=707&embed=true', 									postfix: '.mp4', 									video_url_text: '普清版', 									video_alt_url: 'https://www.yaoshe22.com/', 									video_alt_url_text: '高清版', 									video_alt_url_redirect: '1', 									preview_url: 'https://yaoshe24.com/contents/videos_screenshots/17000/17775/preview.mp4.jpg', 									skin: 'youtube_mod.css', 									bt: '3', 									volume: '1', 									hide_controlbar: '0', 									mlogo: '点击观看更多国产视频', 									mlogo_link: 'https://www.yaoshe22.com/', 									autoplay: 'true', 									urls_in_same_window: 'true', 									related_src: 'https://yaoshe24.com/related_videos_html/17775/', 									float_replay: 'true', 									embed: '0'							};
+
+			var params = {allowfullscreen: 'true', allowscriptaccess: 'always'};
+			kt_player('kt_player', 'https://yaoshe24.com/player/kt_player_4.0.2.swfx', '100%', '100%', flashvars, params);
+			/* ]]> */
